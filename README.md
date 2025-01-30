@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Retti</h1>
 <h3 align="center">A WebDev from Germany</h3>
 
-- 🔭 I’m currently working on **On a Web**
+- 🔭 I’m currently working on **a local indepentend WorldWideWeb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
